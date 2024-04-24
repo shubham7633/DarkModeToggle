@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.darkMode {
+  background-color: rgb(131, 125, 125);
+}
+
+.lightMode {
+  background-color: white;
+}
